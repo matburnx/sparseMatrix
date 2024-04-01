@@ -1,3 +1,7 @@
+"
+Represents a sparse matrix or its compact version.
+
+"
 Class {
 	#name : #SparseMatrix,
 	#superclass : #Object,
